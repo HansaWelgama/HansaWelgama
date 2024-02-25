@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himan Welgama</h1>
 <h3 align="center">I am a second-year Software Engineering Undergraduate student</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansawelgama&label=Profile%20views&color=0e75b6&style=flat" alt="hansawelgama" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansawelgama" alt="hansawelgama" /></a> </p>
 
 - 🔭 I’m currently working on [SaveNest](https://github.com/dumiya123/SDGP_Group_41_Boolean_Autocrats.git)
 
