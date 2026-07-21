@@ -1,8 +1,11 @@
+Markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Himan%20Welgama&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Himan%20Welgama&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<h3 align="center">🚀 Final-year Software Engineering Undergraduate</h3>
+<h3 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30" align="absmiddle"> Final-year Software Engineering Undergraduate
+</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hansawelgama&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="hansawelgama" />
@@ -12,7 +15,7 @@
 
 ---
 
-### 💻 About Me
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" height="30" align="absmiddle"> About Me
 
 * 🔭 I’m currently working on **[UIRateGuideSense](https://github.com/HansaWelgama/ui-rate-guide-sense)** — an AI-powered platform for UI/UX feedback and evaluation.
 * 🌱 I’m currently expanding my skills in **React, NestJS, RabbitMQ, and AWS Cloud Infrastructure**, alongside machine learning integration.
@@ -21,7 +24,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="30" height="30" align="absmiddle"> Languages and Tools
 
 <div align="center">
 
@@ -49,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Metrics & Trophies
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30" height="30" align="absmiddle"> GitHub Metrics & Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hansawelgama&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -63,7 +66,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30" height="30" align="absmiddle"> Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/himan-welgama-864286290" target="_blank">
