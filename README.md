@@ -1,28 +1,92 @@
-<h1 align="center">Hi 👋, I'm Himan Welgama</h1>
-<h3 align="center">I am a second-year Software Engineering Undergraduate student</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hansawelgama&label=Profile%20views&color=0e75b6&style=flat" alt="hansawelgama" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Himan%20Welgama&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansawelgama" alt="hansawelgama" /></a> </p>
+<h3 align="center">🚀 Final-year Software Engineering Undergraduate</h3>
 
-- 🔭 I’m currently working on [UIRateGuideSense](https://github.com/HansaWelgama/ui-rate-guide-sense)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hansawelgama&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="hansawelgama" />
+  <img src="https://img.shields.io/badge/Status-Seeking%20Growth-7b2cbf?style=flat-square&logo=coffeescript" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20&%20AI-9d4edd?style=flat-square&logo=react" alt="Focus" />
+</div>
 
-- 🌱 I’m currently learning **React, nestJS**
+---
 
-- 📫 How to reach me **himanwelgama@gmail.com**
+### 💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himan-welgama-864286290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himan welgama" height="30" width="40" /></a>
-<a href="https://fb.com/himan welgama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himan welgama" height="30" width="40" /></a>
-<a href="https://instagram.com/_himaaan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_himaaan_" height="30" width="40" /></a>
+* 🔭 I’m currently working on **[UIRateGuideSense](https://github.com/HansaWelgama/ui-rate-guide-sense)** — an AI-powered platform for UI/UX feedback and evaluation.
+* 🌱 I’m currently expanding my skills in **React, NestJS, RabbitMQ, and AWS Cloud Infrastructure**, alongside machine learning integration.
+* ⚡ Fun fact: I love combining clean UI/UX design with robust microservices, message queues, and scalable cloud architecture.
+* 📫 How to reach me: **himanwelgama@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+
+| **Frontend & Architecture** | **Backend, Queue & Cloud** | **AI, ML & Database** |
+| :---: | :---: | :---: |
+| 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
+ | 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS"/>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36" height="36" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36" alt="PHP"/>
+ | 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" alt="Figma"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" width="36" height="36" alt="Photoshop"/>
+ |
+
+</div>
+
+---
+
+### 📊 GitHub Metrics & Trophies
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hansawelgama&show_icons=true&theme=aura&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansawelgama&theme=aura&hide_border=true&background=0d1117&side_fame_color=9d4edd&stroke=9d4edd&ring=7b2cbf&fire=9d4edd&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=hansawelgama&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansawelgama&layout=compact&theme=aura&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/himan-welgama-864286290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/himanwelgama" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/_himaaan_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:himanwelgama@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansawelgama&show_icons=true&locale=en&layout=compact" alt="hansawelgama" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansawelgama&show_icons=true&locale=en" alt="hansawelgama" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hansawelgama&" alt="hansawelgama" /></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
