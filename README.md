@@ -41,8 +41,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" alt="Figma"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" width="36" height="36" alt="Photoshop"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="36" height="36" alt="Photoshop"/>
  |
 
 </div>
@@ -52,20 +52,13 @@
 ### 📊 GitHub Metrics & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hansawelgama&show_icons=true&theme=aura&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansawelgama&theme=aura&hide_border=true&background=0d1117&side_fame_color=9d4edd&stroke=9d4edd&ring=7b2cbf&fire=9d4edd&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=hansawelgama&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansawelgama&layout=compact&theme=aura&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hansawelgama&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansawelgama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-trophies.vercel.app/?username=hansawelgama&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansawelgama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
